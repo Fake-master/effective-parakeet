@@ -4,7 +4,7 @@
   "header": {
     "name": "effective-parakeet",
     "description": "Get potion effect in exchange for experience level",
-    "uuid": "",
+    "uuid": "0cd821a0-7677-4ea9-86b0-1c5fe07d83f6",
     "min_engine_version": [ 1, 20, 50 ],
     "version": [ 1, 0, 0 ]
   },
@@ -15,7 +15,7 @@
       "type": "script",
       "language": "javascript",
       "entry": "scripts/Index.js",
-      "uuid": "",
+      "uuid": "f18dba55-a183-4249-b423-8d09d2fb641d",
       "version": [ 1, 0, 0 ]
     }
   ],
