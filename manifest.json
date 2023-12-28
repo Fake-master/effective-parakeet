@@ -1,6 +1,11 @@
 {
   "format_version": 2,
 
+  "metadata": {
+    "authors": [ "not.anyone" ],
+    "url": "https://discord.gg/w2Z32yrccW",
+    "license": "MIT License"
+  },
   "header": {
     "name": "effective-parakeet",
     "description": "Get potion effect in exchange for experience level",
@@ -8,7 +13,6 @@
     "min_engine_version": [ 1, 20, 50 ],
     "version": [ 1, 0, 0 ]
   },
-
   "modules": [
     {
       "description": "Script",
