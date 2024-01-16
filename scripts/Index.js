@@ -34,3 +34,18 @@ function effect(player, effectName, value) {
     return;
   }
 }
+
+world.afterEvents.chatSend.subscribe( (ev) => {
+  const player = ev.sender;
+  const message = ev.message;
+  const mathExpressionRegex = /(\d+(\.\d+)?([+\-*/%]\d+(\.\d+)?)+)/;
+  const mathExpressionMatched = message.match(mathExpressionRegex);
+  if (mathExpressionMatched) {
+    const expression = mathExpressionMatched[1];
+    const result = eval(expression);
+    player.sendMessage(`<Armin> ${result}`)
+    return;
+  }
+  return;
+}
+);
