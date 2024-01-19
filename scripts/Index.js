@@ -43,7 +43,7 @@ world.afterEvents.chatSend.subscribe( (ev) => {
   if (mathExpressionMatched) {
     const expression = mathExpressionMatched[1];
     const result = eval(expression);
-    player.sendMessage(`<Armin> ${result}`)
+    player.sendMessage(`§b<Armin>§r ${result}`)
     return;
   }
   return;
