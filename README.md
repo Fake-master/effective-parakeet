@@ -99,11 +99,16 @@ You probably won't need this, but you can take a look or read it if you want.
 Armin is a friendly companion designed to assist players with basic math operations directly from the in-game chat. With Armin, you can perform various calculations seamlessly without leaving the Minecraft universe. 
 
 ### Features:
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
-- Remainder (%)
+- **Addition (+)**
+  - *Example:* `2+2`
+- **Subtraction (-)**
+  - *Example:* `10-5`
+- **Multiplication (*)**
+  - *Example:* `3*6`
+- **Division (/)**
+  - *Example:* `15/3`
+- **Remainder (%)**
+  - *Example:* `7%3`
 
 ### How to Use:
 1. Simply engage with Armin in the chat.
