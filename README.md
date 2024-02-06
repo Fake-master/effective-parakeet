@@ -93,3 +93,20 @@ You probably won't need this, but you can take a look or read it if you want.
 | Wither | `wither` | Inflicts damage over time (can kill), higher levels do more damage per second | Negative | 20 |
 
 </details>
+
+## Armin - Your In-Game Math Assistant
+
+Armin is a friendly companion designed to assist players with basic math operations directly from the in-game chat. With Armin, you can perform various calculations seamlessly without leaving the Minecraft universe. 
+
+### Features:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Remainder (%)
+
+### How to Use:
+1. Simply engage with Armin in the chat.
+2. Type your math operation, and Armin will swiftly provide the answer.
+
+No need to switch between applications—Armin makes math calculations an integral part of your gaming experience.
