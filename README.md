@@ -115,3 +115,8 @@ Armin is a friendly companion designed to assist players with basic math operati
 2. Type your math operation, and Armin will swiftly provide the answer.
 
 No need to switch between applications—Armin makes math calculations an integral part of your gaming experience.
+
+### Screenshots 
+![Addition Subtraction Multiplication](/ignore_this_folder/AdditionSubtractionMultiplication.jpg)
+
+![Division & Remainder](/ignore_this_folder/DivisionRemainder.jpg)
