@@ -11,7 +11,7 @@
     "description": "Get potion effect in exchange for experience level",
     "uuid": "0cd821a0-7677-4ea9-86b0-1c5fe07d83f6",
     "min_engine_version": [ 1, 20, 50 ],
-    "version": [ 1, 0, 0 ]
+    "version": [ 1, 1, 0 ]
   },
   "modules": [
     {
@@ -20,7 +20,7 @@
       "language": "javascript",
       "entry": "scripts/Index.js",
       "uuid": "f18dba55-a183-4249-b423-8d09d2fb641d",
-      "version": [ 1, 0, 0 ]
+      "version": [ 1, 1, 0 ]
     }
   ],
   "capabilities": [
@@ -29,7 +29,7 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.8.0-beta"
+      "version": "1.9.0-beta"
     }
   ]
 }
